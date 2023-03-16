@@ -1,13 +1,14 @@
+/*Universal selector*/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
+/*Element selectors*/
 body {
     background-color: #d9dcd6;
 }
-
+/*Class selector*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -75,7 +76,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/*Class selector*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -134,7 +135,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/*ID selector*/
 #search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -161,29 +162,29 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/*ID selector*/
 #search-engine-optimization img {
     max-height: 200px;
 }
-
+/*ID selector*/
 #online-reputation-management img {
     max-height: 200px;
 }
-
+/*ID selector*/
 #social-media-marketing img {
     max-height: 200px;
 }
-
+/*ID selector*/
 #search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*ID selector*/
 #online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*ID selector*/
 #social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
