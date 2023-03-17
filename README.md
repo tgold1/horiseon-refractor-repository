@@ -7,7 +7,7 @@ I learned many things about the benefits of having semantic elements over using 
 
 ##You can scroll down, click on the links, view the images and captions
 
-[alt text](assets\images\screencapture--tgold1-github-io-horiseon-refractor-repository-2023-03-16-21_29_42.png)
+[alt text](assets/images/screencapture--tgold1-github-io-horiseon-refractor-repository-2023-03-16-21_29_42.png)
 
 ##Collaborators 
 N/A 
